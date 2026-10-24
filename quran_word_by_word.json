@@ -62,5 +62,21 @@
     "t": "the Especially Merciful",
     "tr": "r-raḥīm",
     "g": ""
+  },
+  "1:2:1": {
+    "l": "1:2:1",
+    "a": "ٱلرَّحْمَٰنِ",
+    "a13": "الرَّحْمٰنِ",
+    "t": "the Entirely Merciful",
+    "tr": "ar-raḥmāni",
+    "g": ""
+  },
+  "1:2:2": {
+    "l": "1:2:2",
+    "a": "ٱلرَّحِيمِ",
+    "a13": "الرَّحِيْمُ",
+    "t": "the Especially Merciful",
+    "tr": "r-raḥīmi",
+    "g": ""
   }
 }

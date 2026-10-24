@@ -233,5 +233,65 @@
     "rv13": "رَحِمَ",
     "rn13": "رَحْمَة",
     "mudaari13": "يَرْحَمُ"
+  },
+  "1:2:1": {
+    "r": "رحم",
+    "t": "have mercy, be compassionate",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "رَّحْمَٰنِ",
+        "type": "Noun",
+        "en": "Most Gracious",
+        "ar13": "رَّحْمَٰنِ"
+      }
+    ],
+    "rv": "رَحِمَ",
+    "rvt": "to have mercy",
+    "rn": "رَحْمَة",
+    "rnt": "mercy",
+    "mudaari": "يَرْحَمُ",
+    "r13": "رحم",
+    "rv13": "رَحِمَ",
+    "rn13": "رَحْمَة",
+    "mudaari13": "يَرْحَمُ"
+  },
+  "1:2:2": {
+    "r": "رحم",
+    "t": "have mercy, be compassionate",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "رَّحِيمِ",
+        "type": "Noun",
+        "en": "Most Merciful",
+        "ar13": "رَّحِيمِ"
+      }
+    ],
+    "rv": "رَحِمَ",
+    "rvt": "to have mercy",
+    "rn": "رَحْمَة",
+    "rnt": "mercy",
+    "mudaari": "يَرْحَمُ",
+    "r13": "رحم",
+    "rv13": "رَحِمَ",
+    "rn13": "رَحْمَة",
+    "mudaari13": "يَرْحَمُ"
   }
 }
