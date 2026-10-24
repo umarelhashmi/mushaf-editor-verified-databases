@@ -115,8 +115,8 @@
     "mudaari13": "يَعْلَمُ"
   },
   "1:0:1": {
-    "r": "اسم",
-    "t": "name",
+    "r": "وسم",
+    "t": "mark",
     "origType": "ISM",
     "rootType": "ROOT NOUN",
     "comp": [
@@ -135,13 +135,13 @@
       }
     ],
     "rv": "وَسَمَ",
-    "rvt": "to mark",
-    "rn": "وَسْم",
-    "rnt": "marking",
+    "rvt": "to mark something",
+    "rn": "وَسْمٌ",
+    "rnt": "a marking",
     "mudaari": "يَسِمُ",
-    "r13": "اسم",
+    "r13": "وسم",
     "rv13": "وَسَمَ",
-    "rn13": "وَسْم",
+    "rn13": "وَسْمٌ",
     "mudaari13": "يَسِمُ"
   },
   "1:0:2": {
