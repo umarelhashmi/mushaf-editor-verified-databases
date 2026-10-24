@@ -1,1 +1,122 @@
-{}
+{
+  "1:0:1": {
+    "r": "اسم",
+    "t": "name",
+    "origType": "ISM",
+    "rootType": "ROOT NOUN",
+    "comp": [
+      {
+        "ar": "بِ",
+        "type": "Particle",
+        "en": "in",
+        "tr": "Preposition (Harf Jar)",
+        "ar13": "بِ"
+      },
+      {
+        "ar": "اسْمِ",
+        "type": "Noun",
+        "en": "name",
+        "ar13": "اسْمِ"
+      }
+    ],
+    "rv": "وَسَمَ",
+    "rvt": "to mark",
+    "rn": "وَسْم",
+    "rnt": "marking",
+    "mudaari": "يَسِمُ",
+    "r13": "اسم",
+    "rv13": "وَسَمَ",
+    "rn13": "وَسْم",
+    "mudaari13": "يَسِمُ"
+  },
+  "1:0:2": {
+    "r": "أله",
+    "t": "worship, adore",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "لَّهِ",
+        "type": "Noun",
+        "en": "God",
+        "ar13": "لَّهِ"
+      }
+    ],
+    "rv": "أَلِهَ",
+    "rvt": "to be bewildered, to worship",
+    "rn": "أَلْه",
+    "rnt": "bewilderment, worship",
+    "mudaari": "يَأْلَهُ",
+    "r13": "أله",
+    "rv13": "أَلِهَ",
+    "rn13": "أَلْه",
+    "mudaari13": "يَأْلَهُ"
+  },
+  "1:0:3": {
+    "r": "رحم",
+    "t": "have mercy, be compassionate",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "رَّحْمَٰنِ",
+        "type": "Noun",
+        "en": "Most Gracious",
+        "ar13": "رَّحْمَٰنِ"
+      }
+    ],
+    "rv": "رَحِمَ",
+    "rvt": "to have mercy",
+    "rn": "رَحْمَة",
+    "rnt": "mercy",
+    "mudaari": "يَرْحَمُ",
+    "r13": "رحم",
+    "rv13": "رَحِمَ",
+    "rn13": "رَحْمَة",
+    "mudaari13": "يَرْحَمُ"
+  },
+  "1:0:4": {
+    "r": "رحم",
+    "t": "have mercy, be compassionate",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "رَّحِيمِ",
+        "type": "Noun",
+        "en": "Most Merciful",
+        "ar13": "رَّحِيمِ"
+      }
+    ],
+    "rv": "رَحِمَ",
+    "rvt": "to have mercy",
+    "rn": "رَحْمَة",
+    "rnt": "mercy",
+    "mudaari": "يَرْحَمُ",
+    "r13": "رحم",
+    "rv13": "رَحِمَ",
+    "rn13": "رَحْمَة",
+    "mudaari13": "يَرْحَمُ"
+  }
+}
