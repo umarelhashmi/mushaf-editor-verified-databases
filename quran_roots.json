@@ -293,5 +293,81 @@
     "rv13": "عَلِمَ",
     "rn13": "عَلَمٌ",
     "mudaari13": "يَعْلَمُ"
+  },
+  "1:3:1": {
+    "r": "ملك",
+    "t": "own, rule",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "مَٰلِكِ",
+        "type": "Noun",
+        "en": "Master",
+        "ar13": "مَٰلِكِ"
+      }
+    ],
+    "rv": "مَلَكَ",
+    "rvt": "to rule, to own",
+    "rn": "مُلْك، مِلْك، مَلْك",
+    "rnt": "Dominion, property",
+    "mudaari": "يَمْلِكُ، يَمْلُكُ",
+    "r13": "ملك",
+    "rv13": "مَلَكَ",
+    "rn13": "مُلْك، مِلْك، مَلْك",
+    "mudaari13": "يَمْلِكُ، يَمْلُكُ"
+  },
+  "1:3:2": {
+    "r": "يوم",
+    "t": "day, period of time",
+    "origType": "ISM",
+    "rootType": "ROOT NOUN",
+    "comp": [
+      {
+        "ar": "يَوْمِ",
+        "type": "Noun",
+        "en": "day",
+        "ar13": "يَوْمِ"
+      }
+    ],
+    "rv": "",
+    "rvt": "",
+    "rn": "يَوم- أَيَّام",
+    "rnt": "Day - days",
+    "r13": "يوم",
+    "mudaari": "",
+    "rv13": "",
+    "rn13": "يَوم- أَيَّام",
+    "mudaari13": ""
+  },
+  "1:3:3": {
+    "r": "دين",
+    "t": "to abide by something",
+    "origType": "ISM",
+    "rootType": "ROOT VERB",
+    "comp": [
+      {
+        "ar": "ٱلْ",
+        "type": "Particle",
+        "en": "The",
+        "tr": "Definite Article (Harf Ta'rif)",
+        "ar13": "ٱلْ"
+      },
+      {
+        "ar": "دِّينِ",
+        "type": "Noun",
+        "en": "Recompense",
+        "ar13": "دِّينِ"
+      }
+    ],
+    "rv": "دَانَ",
+    "rvt": "to owe, to profess belief in, to recompense",
+    "rn": "دَيْن، دِيْن",
+    "rnt": "payback, way of life, recompense",
+    "mudaari": "يَدِينُ",
+    "r13": "دين",
+    "rv13": "دَانَ",
+    "rn13": "دَيْن، دِيْن",
+    "mudaari13": "يَدِينُ"
   }
 }
